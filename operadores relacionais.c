@@ -12,6 +12,13 @@ int main(){
     printf("2.1 é maior que 2?: %d \n", numero3 > numero4);
     printf("2.1 é igual a 2?: %d \n", numero3 == numero4);
 
+    /*
+
+    proposição verdadeira = 1;
+    proposição falsa = 0;
+    
+    */ 
+
     return 0;
 
 }
