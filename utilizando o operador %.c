@@ -15,6 +15,9 @@ int main(){
     if (resultado == 0) //nunca pôr ponto e vírgula no final do if.
     {
         printf("\nO número é par!\n");
+    } else{
+
+        printf("\nO número é ímpar!\n");
     }
 
     return 0;
