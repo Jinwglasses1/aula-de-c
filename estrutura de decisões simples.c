@@ -14,6 +14,9 @@ int main(){
     {
         printf("O primeiro número é maior que o segundo! \n");
     
+    } else{
+        
+        printf("O segundo número é maior que o primeiro!\n");
     }
     
     return 0;
