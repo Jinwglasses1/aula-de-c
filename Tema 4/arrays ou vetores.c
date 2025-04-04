@@ -14,6 +14,7 @@ int main(){
     printf("Primeira letra: %c \n", letras[0]);
     printf("Segunda letra: %c \n", letras[1]);
     printf("Terceira letra: %c \n", letras[2]);
+    
 
     return 0;
 }
